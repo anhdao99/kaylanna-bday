@@ -210,6 +210,10 @@ body {
   fill: #9a90da;
 }
 
+.lydia-dp {
+  max-width: 300px;
+}
+
 .wish-hbd {
   font-size: 3em;
   margin: 0;
